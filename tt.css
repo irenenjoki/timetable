@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid rgb(214, 25, 25);
+    border-collapse: collapse;
+  }
+
+
+table {
+width: 100%;
+border: 0px solid #ddd;
+}
+th, td {
+text-align: left;
+padding: 16px;
+}
+
+
+
+tr:hover {background-color: #6ae95e;}
+
+
+
